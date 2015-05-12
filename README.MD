@@ -1,2 +1,2 @@
 # main
-This is my main *TESTING* directory for different stuff :D
+This is my main __TESTING__ directory for different stuff :D
